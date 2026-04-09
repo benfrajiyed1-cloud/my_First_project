@@ -1,0 +1,68 @@
+body{
+    background-image: url("QUIZ.webp");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h3{
+    text-indent: 25px;
+}
+header{
+    background-color: darksalmon;
+    border-radius: 20px;
+    float: left;
+    margin: 1%;
+    width:98%;
+    height:150px;
+}
+nav{
+    background-color: steelblue;
+    border-radius: 20px;
+    float: left;
+    height:650px;
+    width: 28%;
+    margin: 1%;
+}
+.kk{
+    background-color:cornflowerblue;
+    border: 1px solid burlywood;
+    margin: 5px;
+    color:crimson;
+    width:200px;
+    padding: 5px;
+    text-transform: capitalize;
+    transition: 0.7s ease;
+}
+.kk:hover{
+    transform: scale(1.3);
+}
+ul{
+    list-style-type: none;
+}
+.pr{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 13%;
+    height:100px;
+	width: 100px;
+    background-color: burlywood;
+    text-align: center;
+    font-size: 80px;
+    color: cadetblue;
+    font-family: cursive;
+   
+}
+#sp{
+    margin-top: 300px;
+    background-color:cornflowerblue;
+    border: 1px solid burlywood;
+    color:crimson;
+    width:200px;
+    text-transform: capitalize;
+    display: flex;
+    text-decoration: underline;
+    padding: 5px;
+    transition: 0.7s ease;
+}
+#sp:hover{
+    transform: scale(1.3);
+}
