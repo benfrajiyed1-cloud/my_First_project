@@ -14,6 +14,11 @@ const quizData = [
         question:"Wie viele deutsche Spieler haben den Ballon d'Or gewonnen?",
         options:["1","3","5"]
     },
+    {
+        image:"bayern.jfif",
+        question:"Wie oft hat der FC Bayern München die deutsche Meisterschaft gewonnen?",
+        options:["36","34","35"]
+    },
 
 ];
 
