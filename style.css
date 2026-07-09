@@ -166,3 +166,24 @@ label{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 }
+#erkl{
+    text-align: center;
+    color: firebrick;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:underline;
+}
+footer{
+    background-color: darksalmon;
+    height: 400px;
+    width:98%;
+    float: left;
+    margin: 1%;
+    border-radius: 20px;
+}
+#prekla{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:gray;
+    font-size: 25px;
+    text-indent: 20px;
+    padding: 20px;
+}
