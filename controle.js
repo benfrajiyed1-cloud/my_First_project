@@ -37,12 +37,21 @@ const quizData = [
      {
         image:"bolt.webp",
         question:"Wie viele Goldmedaillen hat Usain Bolt gewonnen?",
-        options:["7","8","9"]
+        options:["6","7","8"]
+    },
+    {
+        image:"hand.jpg",
+        question:"Welcher Handballverein hat die meisten Titel gewonnen?",
+        options:["Füchse Berlin","SG Flensburg-Handewitt","THW Kiel"]
+    },
+     {
+        image:"schum.jpg",
+        question:"Wie oft wurde Michael Schumacher Weltmeister?",
+        options:["5","8","7"]
     },
 
 
-
-];
+    ];
 
 let currentIdx = 0;
 
