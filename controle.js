@@ -19,6 +19,28 @@ const quizData = [
         question:"Wie oft hat der FC Bayern München die deutsche Meisterschaft gewonnen?",
         options:["36","34","35"]
     },
+    {
+        image:"langer.jfif",
+        question:"Wer ist dieser Spieler?",
+        options:["Jack Nicklaus","Bernhard Langer","Martin Kaymer"]
+    },
+    {
+        image:"wolff.jpg",
+        question:"Wo spielt Andreas Wolff?",
+        options:["SC Magdeburg","THW Kiel","VfL Gummersbach"]
+    },
+    {
+        image:"bastian.webp",
+        question:"Wie oft hat Bastian Schweinsteiger an einer WM teilgenommen?",
+        options:["4","3","5"]
+    },
+     {
+        image:"bolt.webp",
+        question:"Wie viele Goldmedaillen hat Usain Bolt gewonnen?",
+        options:["7","8","9"]
+    },
+
+
 
 ];
 
